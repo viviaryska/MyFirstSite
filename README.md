@@ -1,2 +1,0 @@
-# MyFirstSite
-portofolio hacktiv
